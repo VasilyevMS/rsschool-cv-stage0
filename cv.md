@@ -1,7 +1,7 @@
 # Mikhail Vasilyev
 
 [LinkedIn](linkedin.com/in/mikhailvasilyevvms)
-[Gmail](mail_to:vasilyev.vms@gmail.com)
+[Gmail](mailto:vasilyev.vms@gmail.com)
 
 ![Whatsapp logo](whatsapp.png)
 
