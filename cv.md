@@ -23,4 +23,4 @@ Donetsk National University (Physics Faculty)
 _Radiophysics and electronics specialist_
 _(September 1999 – June 2004)_
 
-###English – B2
+English – B2
