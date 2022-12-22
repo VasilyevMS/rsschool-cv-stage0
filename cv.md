@@ -16,7 +16,7 @@ Achievements and responsibilities:
 - Collaborated with IT and finance departments to optimize budget by identifying specific weaknesses in current equipment.
 - Migration from H2 database to PostgreSQL and MySQL databases.
 - Administration GPS monitoring platform, communication with managers and customers, helpdesk and support.
-- Weather web page (pat project): [Link](https://sparkly-dragon-6164de.netlify.app/)
+- Weather web page (pet project): [Weather Forecast](https://sparkly-dragon-6164de.netlify.app/)
 
 Education
 Donetsk National University (Physics Faculty)
