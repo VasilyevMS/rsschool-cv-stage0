@@ -1,0 +1,10 @@
+body {
+  width: 90%;
+  max-width: 1024px;
+  background-color: rgba(158, 217, 253, 0.3);
+  margin: 0 auto;
+}
+
+.header {
+  color: darkblue;
+}
